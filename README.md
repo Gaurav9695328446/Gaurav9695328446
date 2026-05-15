@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/gaurav-kumar-arya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://leetcode.com/gaurav-stark/" target="_blank">
+  <a href="https://leetcode.com/u/Gaurav-Stark/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
   </a>
   <a href="mailto:gauravmka24@gmail.com">
@@ -76,11 +76,9 @@
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | **Portfolio Website** | Personal portfolio built with Next.js, Tailwind CSS, and Framer Motion | [View](https://gaurav-arya.vercel.app/) |
-| **Medium Blog Clone** | Full-stack blog platform with rich text editor and user auth | [Repo](#) (add link) |
+| **Medium Blog Clone** | Full-stack blog platform with rich text editor and user auth | [Repo](#) |
 | **E‑commerce UI** | Modern product catalog with cart, filters, and responsive design | [Demo](#) |
 | **Weather Dashboard** | Real‑time weather app using OpenWeatherMap API and React | [Demo](#) |
-
-> 💡 *Want to see more? Check out my [GitHub repositories](https://github.com/gaurav969532844?tab=repositories).*
 
 ---
 
@@ -92,15 +90,45 @@
 - [**State Management in 2025: Is Redux Still Relevant?**](https://medium.com/@gaurav_stark/state-management-2025) – *January 2025*
 - [**Building a Design System with Storybook**](https://medium.com/@gaurav_stark/design-system-storybook) – *December 2024*
 
-📌 *Read all articles on [Medium](https://medium.com/@gaurav_stark)*
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://stats.justsong.cn/api/leetcode/?username=Gaurav-Stark&theme=dark" alt="LeetCode Stats" width="80%" />
+</p>
+
+<p align="center">
+  <i>🏆 924 problems solved • 82.6% acceptance • 52 badges earned • 1,448 contest rating</i>
+</p>
 
 ---
 
 ## 🧠 Currently Focusing On
 
-```mermaid
-graph LR
-    A[System Design] --> B[Frontend Architecture]
-    B --> C[Micro-frontends]
-    B --> D[Performance Optimization]
-    A --> E[Scalable State Management]
+| Topic | Progress |
+|-------|----------|
+| System Design (Frontend) | ████████░░ 80% |
+| Micro-frontends with Module Federation | ██████░░░░ 60% |
+| Web Performance (Core Web Vitals) | █████████░ 90% |
+| TypeScript Advanced Patterns | ███████░░░ 70% |
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://gaurav-arya.vercel.app/">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <b>“First, solve the problem. Then, write the code.” – John Johnson</b>
+</p>
