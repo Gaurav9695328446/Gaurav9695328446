@@ -71,45 +71,36 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Featured Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurav969532844&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav969532844&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Portfolio Website** | Personal portfolio built with Next.js, Tailwind CSS, and Framer Motion | [View](https://gaurav-arya.vercel.app/) |
+| **Medium Blog Clone** | Full-stack blog platform with rich text editor and user auth | [Repo](#) (add link) |
+| **E‑commerce UI** | Modern product catalog with cart, filters, and responsive design | [Demo](#) |
+| **Weather Dashboard** | Real‑time weather app using OpenWeatherMap API and React | [Demo](#) |
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav969532844&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav969532844&theme=radical&bg_color=0d1117&hide_border=true&area=true" width="90%" alt="Activity Graph" />
-</p>
+> 💡 *Want to see more? Check out my [GitHub repositories](https://github.com/gaurav969532844?tab=repositories).*
 
 ---
 
-## 🏆 GitHub Trophies
+## ✍️ Recent Blog Posts
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav969532844&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<!-- Replace the links with your actual Medium article URLs -->
+- [**Understanding React Server Components**](https://medium.com/@gaurav_stark/understanding-react-server-components) – *March 2025*
+- [**5 Tailwind CSS Tricks You Probably Don’t Know**](https://medium.com/@gaurav_stark/5-tailwind-css-tricks) – *February 2025*
+- [**State Management in 2025: Is Redux Still Relevant?**](https://medium.com/@gaurav_stark/state-management-2025) – *January 2025*
+- [**Building a Design System with Storybook**](https://medium.com/@gaurav_stark/design-system-storybook) – *December 2024*
 
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://gaurav-arya.vercel.app/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+📌 *Read all articles on [Medium](https://medium.com/@gaurav_stark)*
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+## 🧠 Currently Focusing On
 
-<p align="center">
-  <b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b>
-</p>
+```mermaid
+graph LR
+    A[System Design] --> B[Frontend Architecture]
+    B --> C[Micro-frontends]
+    B --> D[Performance Optimization]
+    A --> E[Scalable State Management]
